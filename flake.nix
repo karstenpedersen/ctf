@@ -44,6 +44,7 @@
             checksec
             patchelf
             capstone
+            tig
 
             # Data recovery
             scalpel
@@ -56,6 +57,10 @@
             hexdump
             xxd
             hexedit
+            binwalk
+
+            openssl
+            age
 
             # Password cracking
             john
@@ -88,6 +93,7 @@
             # Virtualization
             docker
             # podman
+            virtualbox
           ]) ++ [
             coolWordlists
             python3WithCoolPackages
