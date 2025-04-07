@@ -1,4 +1,6 @@
-# CTF
+# ctf
+
+Useful tools for doing CTFs.
 
 ## Links
 
